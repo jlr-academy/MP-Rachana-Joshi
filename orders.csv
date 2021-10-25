@@ -1,0 +1,6 @@
+customer_name,customer_address,customer_phone,order_status,courier,products
+Rachana,London Road,0779889999,Preparing,1,"1,2,3"
+Vish,The Avenue,09888987654,Ready,1,"1,2"
+Aadi,Burnham Road,09888877777,Cancelled,3,1
+Ariana,Grande lane,0000000000,Delivered,1,"1,2,3,4"
+Kevin,1 Oxford Street,abc123,Out For Delivery,3,"7,6,2"
